@@ -638,6 +638,11 @@
 
 
 /*** Contact Start ***/
+.page-header{
+    background-image: url('../img/CONTACT.jpg');
+    background-size: cover;
+    background-position:center ;
+}
 .contact-detail::before {
     position: absolute;
     content: "";
@@ -652,7 +657,7 @@
 }
 
 .contact-map {
-    background: #26d48c;
+    background: rgb(99, 142, 217);
 }
 
 .contact-form {
