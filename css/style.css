@@ -638,7 +638,12 @@
 
 
 /*** Contact Start ***/
-.page-header{
+.blog-header{
+    background-image: url('../img/blog.jpg');
+    background-size: cover;
+    background-position:center ;
+}
+.contact-header{
     background-image: url('../img/CONTACT.jpg');
     background-size: cover;
     background-position:center ;
