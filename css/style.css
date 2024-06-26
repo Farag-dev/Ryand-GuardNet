@@ -639,7 +639,7 @@
 
 /*** Contact Start ***/
 .blog-header{
-    background-image: url('../img/blogcover.jpeg');
+    background-image: url('../img/blogcover.jpeg.png');
     background-size: cover;
     background-position:center ;
 }
@@ -678,7 +678,7 @@
     background: white;
 }
 
-.footer .short-link a,
+/* .footer .short-link a,
 .footer .help-link a,
 .footer .contact-link a {
     transition: .5s;
@@ -688,7 +688,7 @@
 .footer .help-link a:hover,
 .footer .contact-link a:hover {
     letter-spacing: 1px;
-}
+} */
 
 .footer .hightech-link a:hover {
     background: var(--bs-primary);
