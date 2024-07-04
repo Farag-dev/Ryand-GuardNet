@@ -17,9 +17,24 @@
 
 
 /*** Button Start ***/
+
+    @media screen and (max-width:600px) { 
+        .suppliers img{
+            display: none;
+        }
+        .foot{
+            text-align: center;
+        }
+        .icons{
+            width: 35%;
+            margin:auto ;
+        }      
+    
+}
 .btn {
     font-weight: 600;
     transition: .5s;
+    
 }
 .head1{
     
@@ -691,7 +706,7 @@
     background-position:center ;
 }
 .contact-header{
-    background-image: url('../img/contact3.png');
+    background-image: url('../img/close-up-man-talking-phone.jpg');
     background-size: cover;
     background-position:center ;
 }
