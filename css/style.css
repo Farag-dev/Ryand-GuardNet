@@ -29,6 +29,15 @@
             width: 35%;
             margin:auto ;
         }
+        .coming_soon_body{
+            background-image: url('../img/headerbg2.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 91vh;
+        }
+        .coming_content{
+            padding-top:200px ;
+         }
            
     
 }
@@ -48,8 +57,9 @@
 }
 .coming_soon_body{
     background-image: url('../img/headerbg2.jpg');
-    background-size: cover; 
+    background-size: cover;
     background-repeat: no-repeat;
+    
 }
 .coming-soon {
     color: white;
